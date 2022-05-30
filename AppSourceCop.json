@@ -1,0 +1,4 @@
+{
+    "mandatoryAffixes": ["SMT"],
+    "supportedCountries": ["AU","NZ","US","GB","CA","CH"]
+}

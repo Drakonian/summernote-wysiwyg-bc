@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="SummerNote WYSIWYG Editor">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1068252085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMT Content - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1068252085 - Field 2166181827 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMT Content - Field Content - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1068252085 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMT Content - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1068252085 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMT Content - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1068252085 - Field 2649378047 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Record ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMT Content - Field Source Record ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1957940539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rich Content List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMT Rich Content List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1957940539 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMT Rich Content List - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1957940539 - Control 969791027 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Has Value field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMT Rich Content List - Control HasValue - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1957940539 - Control 969791027 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Has Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMT Rich Content List - Control HasValue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1422056174 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Summer Note Editor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMT Summer Note Doc Attachment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1422056174 - Control 1920279616 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Editor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMT Summer Note Doc Attachment - Control GrpEditor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3752963766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Summer Note Editor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMT Summer Note Editor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3752963766 - Control 1920279616 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Editor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMT Summer Note Editor - Control GrpEditor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 93922441 - Action 1068252085 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>HTML Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMT Purchase Order - Action SMT Content - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 93922441 - Action 1068252085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>HTML Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMT Purchase Order - Action SMT Content - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1846767487 - Action 1068252085 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
+          <source>HTML Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMT Purchase Order List - Action SMT Content - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1846767487 - Action 1068252085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
+          <source>HTML Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMT Purchase Order List - Action SMT Content - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1463727248 - Action 1068252085 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>HTML Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMT Sales Order - Action SMT Content - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1463727248 - Action 1068252085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>HTML Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMT Sales Order - Action SMT Content - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2217220098 - Action 1068252085 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>HTML Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMT Sales Order List - Action SMT Content - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2217220098 - Action 1068252085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>HTML Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMT Sales Order List - Action SMT Content - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1819633810 - Action 838191085 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 219593816">
+          <source>Edit HTML</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMTDocument Attachment Details - Action SMT Edit HTML - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1819633810 - Action 838191085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 219593816">
+          <source>Edit HTML</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMTDocument Attachment Details - Action SMT Edit HTML - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 2571271221 - Property 2879900210" maxwidth="30" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SMT Summer Note</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet SMT Summer Note - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
