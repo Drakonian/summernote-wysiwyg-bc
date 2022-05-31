@@ -22,7 +22,7 @@ page 81500 "SMT Summer Note Editor"
 
                     trigger OnChange(Data: Text)
                     begin
-                        Rec.SetContent(Data);
+                        NewData := Data;
                     end;
                 }
             }
@@ -36,4 +36,12 @@ page 81500 "SMT Summer Note Editor"
             evaluate(Rec."Source Record ID", Rec.GetFilter("Source Record ID"));
         Rec.FilterGroup(0);
     end;
+
+    trigger OnClosePage()
+    begin
+        Rec.SetContent(NewData);
+    end;
+
+    var
+        NewData: Text;
 }
