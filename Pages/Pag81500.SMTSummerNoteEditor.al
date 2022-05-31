@@ -17,7 +17,8 @@ page 81500 "SMT Summer Note Editor"
                     ApplicationArea = All;
                     trigger ControlAddinReady()
                     begin
-                        CurrPage.SMTEditor.InitializeSummerNote(Rec.GetContent());
+                        NewData := Rec.GetContent();
+                        CurrPage.SMTEditor.InitializeSummerNote(NewData);
                     end;
 
                     trigger OnChange(Data: Text)
