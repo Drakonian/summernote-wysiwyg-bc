@@ -22,11 +22,19 @@ page 81502 "SMT Summer Note Doc Attachment"
 
                     trigger OnChange(Data: Text)
                     begin
-                        Rec.SMTSetContent(Data);
+                        NewData := Data;
                     end;
                 }
             }
 
         }
     }
+
+    trigger OnClosePage()
+    begin
+        Rec.SMTSetContent(NewData);
+    end;
+
+    var
+        NewData: Text;
 }
