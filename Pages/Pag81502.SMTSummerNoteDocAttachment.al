@@ -17,7 +17,8 @@ page 81502 "SMT Summer Note Doc Attachment"
                     ApplicationArea = All;
                     trigger ControlAddinReady()
                     begin
-                        CurrPage.SMTEditor.InitializeSummerNote(Rec.SMTGetContent());
+                        NewData := Rec.SMTGetContent();
+                        CurrPage.SMTEditor.InitializeSummerNote(NewData);
                     end;
 
                     trigger OnChange(Data: Text)
