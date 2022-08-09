@@ -36,6 +36,7 @@ page 81500 "SMT Summer Note Editor"
         if Rec.GetFilter("Source Record ID") <> '' then
             evaluate(Rec."Source Record ID", Rec.GetFilter("Source Record ID"));
         Rec.FilterGroup(0);
+        if Rec.Insert() then;
     end;
 
     trigger OnClosePage()

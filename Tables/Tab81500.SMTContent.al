@@ -41,6 +41,7 @@ table 81500 "SMT Content"
         Clear(Content);
         Content.CreateOutStream(OutStreamVar);
         OutStreamVar.Write(Data);
+        if not Rec.Modify(true) then;
     end;
 
     procedure GetContent() Data: Text
