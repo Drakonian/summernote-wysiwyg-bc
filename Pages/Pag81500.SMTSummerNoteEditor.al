@@ -21,7 +21,7 @@ page 81500 "SMT Summer Note Editor"
                         CurrPage.SMTEditor.InitializeSummerNote(NewData);
                     end;
 
-                    trigger OnChange(Data: Text)
+                    trigger onBlur(Data: Text)
                     begin
                         NewData := Data;
                     end;

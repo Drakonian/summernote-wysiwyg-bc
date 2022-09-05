@@ -6,16 +6,17 @@ function InitializeControl(controlId) {
 function InitializeSummerNote(Data) {
     //Initialize editor only once when DOM is loaded
     $(document).ready(function() {
-        //Bind InvokeExtensibilityMethod for OnChange BC event
-        const OnChange = getALMethod('OnChange',false);
+        //Bind InvokeExtensibilityMethod for onBlur BC event
+        const onBlur = getALMethod('onBlur',false);
         editor = $('#summernote');
         editor.summernote({
             height: ($(window).height() - 55),
             focus: true,
             callbacks: {
                 //Bind onChange callback with our OnChange BC event
-                onChange: function(contents, $editable) {
-                    OnChange(contents);
+                onBlur: function() {
+                    Data = $('#summernote').summernote('code');
+                    onBlur(Data);
                 }
             },
             //List of features to include them to toolbar

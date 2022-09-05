@@ -21,7 +21,7 @@ page 81502 "SMT Summer Note Doc Attachment"
                         CurrPage.SMTEditor.InitializeSummerNote(NewData);
                     end;
 
-                    trigger OnChange(Data: Text)
+                    trigger onBlur(Data: Text)
                     begin
                         NewData := Data;
                     end;

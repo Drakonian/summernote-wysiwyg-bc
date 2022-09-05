@@ -14,7 +14,7 @@ controladdin "SMT Editor"
     HorizontalStretch = true;
 
     event ControlAddinReady();
-    event OnChange(Data: Text)
+    event onBlur(Data: Text)
     procedure GetData(Data: Text)
     procedure SetData(Data: Text)
     procedure InitializeSummerNote(Data: Text)
